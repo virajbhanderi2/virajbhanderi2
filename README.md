@@ -24,7 +24,13 @@
 * JavaScript
 * Java
 * SQL
+## 🛠 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
 ### ⚙️ Frameworks & Libraries
 
 * Flask
